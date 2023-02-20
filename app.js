@@ -77,7 +77,7 @@ class ImageRectangle {
 const imageRectangle = new ImageRectangle('image.jpg', 306, 168, 'untapped');
 
 // Call the drawCircle function to draw a red circle on the canvas
-drawCircle(canvas.width/2, canvas.height/2, 50, 'red');
+// drawCircle(canvas.width/2, canvas.height/2, 50, 'red');
 
 // Call the draw method of the imageRectangle instance to draw it on the canvas
 imageRectangle.draw();
